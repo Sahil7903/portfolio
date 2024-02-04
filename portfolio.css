@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main_page {
+    background-color: #80ff80;
+    height: 800vh;
+}
+
+.navbarcss {
+    width: 100vw;
+    padding: 1px;
+    margin-left: auto;
+}
+
+.navbar_img {
+    height: 55px;
+    width: 55px;
+}
+
+.navbar_img:hover {
+    height: 70px;
+    width: 70px;
+    transition-duration: 0.2s;
+}
+
+.nav_buttons {
+    font-family: caveat;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    font-size: 24px;
+}
+
+.nav_buttons:hover {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+    transition-duration: 0.6s;
+    transition-delay: 0.5s;
+    margin-bottom: 18px;
+
+}
+
+
+.Greeting_line {
+    text-align: center;
+    font-weight: bold;
+    font-family: caveat;
+    font-size: 70px;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+.Greeting_line:hover {
+    text-align: center;
+    font-weight: bold;
+    font-family: caveat;
+    font-size: 70px;
+    text-decoration: underline;
+    margin-top: 20px;
+    color: red;
+    transition-delay: 0.5s;
+    transition-duration: 0.2s;
+}
+
+.sahil_main_photo {
+    border-radius: 50px;
+    height: 320px;
+    background-size: cover;
+    margin-left: 40%;
+    margin-top: 15px;
+}
+
+.sahil_main_photo:hover {
+    height: 380px;
+    transition-duration: 0.5s;
+}
+
+
+.carousel_for_education {
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 80px;
+}
+
+.carousel_caption_text {
+    color: black;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 24px;
+    background-color: #b3ffe6;
+    opacity: 0.7;
+    border-radius: ;
+}
+
+.aa{
+    animation: slide-left;
+}
